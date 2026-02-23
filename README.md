@@ -31,7 +31,8 @@ Go-Kart-Emergency-Braking-System
 - 모터 출력 제어 로직
 
 ### 회로도[약식]
-![Image](https://github.com/user-attachments/assets/55ba1e9d-fd21-4d3d-9003-0aa8bb648c16)
+![고카트 회로도](https://github.com/user-attachments/assets/b54cbad5-bc4f-4e12-b383-c2efbda8b561)
+
 
 ## 본인 담당 역할 및 구현 역량
 
